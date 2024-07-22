@@ -36,9 +36,7 @@ You can take a look at the link:sonar-project.properties[sonar-project.propertie
 
 - https://docs.sonarcloud.io/advanced-setup/languages/c-c-objective-c/[Documentation of the C, C++ and Objective-C plugin and its Build Wrapper]
 - https://docs.sonarcloud.io/getting-started/gitlab/[Documentation of using SonarCloud with GitLab CI]
-- https://docs.sonarcloud.io/advanced-setup/languages/c-c-objective-c/#analysis-cache[Configuring C, C++ and Objective-C analysis cache]
-- https://docs.sonarcloud.io/advanced-setup/languages/c-c-objective-c/#parallel-code-scan[Configuring multithreaded execution]
-- https://docs.sonarcloud.io/advanced-setup/languages/c-c-objective-c/#analysis-steps-using-compilation-database[Using compilation database (compile_commands.json)]
+- https://docs.sonarcloud.io/advanced-setup/languages/c-family/prerequisites/#generating-a-compilation-database[Generating a compilation database]
 
 = Linux\Autotools
 
